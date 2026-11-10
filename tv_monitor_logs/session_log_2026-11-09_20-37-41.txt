@@ -1,0 +1,27 @@
+======================================================================
+[20:37:41] ИНИЦИАЛИЗАЦИЯ МОНИТОРИНГА С РАСШИФРОВКОЙ ПОРТОВ
+   • Целевой хост (ТВ): 192.168.1.9
+   • Выбранный аудиоиндекс: 1
+   • Порог срабатывания VAD: 250
+   • Текстовый лог-файл: tv_monitor_logs\session_log_2026-11-09_20-37-41.txt
+======================================================================
+[*] Анализатор с расшифровкой портов запущен.
+[*] Поток захвата аудио активен (Устройство ID: 1)
+[20:37:42] [TCP] IN  <- 192.168.1.11:8009 (src: 54339) | Size: 164 bytes | 📌 [SERVICE]: Google Cast / Chromecast
+[20:37:42] [TCP] OUT -> 192.168.1.11:54339 (src: 8009) | Size: 164 bytes | 📌 [SERVICE]: Google Cast / Chromecast
+[20:37:42] [TCP] IN  <- 192.168.1.11:8009 (src: 54339) | Size: 54 bytes | 📌 [SERVICE]: Google Cast / Chromecast
+[20:37:47] [TCP] IN  <- 192.168.1.11:8009 (src: 54339) | Size: 164 bytes | 📌 [SERVICE]: Google Cast / Chromecast
+[20:37:47] [TCP] OUT -> 192.168.1.11:54339 (src: 8009) | Size: 164 bytes | 📌 [SERVICE]: Google Cast / Chromecast
+[20:37:47] [TCP] IN  <- 192.168.1.11:8009 (src: 54339) | Size: 54 bytes | 📌 [SERVICE]: Google Cast / Chromecast
+[20:37:52] [TCP] IN  <- 192.168.1.11:8009 (src: 54339) | Size: 164 bytes | 📌 [SERVICE]: Google Cast / Chromecast
+[20:37:52] [TCP] OUT -> 192.168.1.11:54339 (src: 8009) | Size: 164 bytes | 📌 [SERVICE]: Google Cast / Chromecast
+[20:37:52] [TCP] IN  <- 192.168.1.11:8009 (src: 54339) | Size: 54 bytes | 📌 [SERVICE]: Google Cast / Chromecast
+[20:37:57] [TCP] IN  <- 192.168.1.11:8009 (src: 54339) | Size: 164 bytes | 📌 [SERVICE]: Google Cast / Chromecast
+[20:37:57] [TCP] OUT -> 192.168.1.11:54339 (src: 8009) | Size: 164 bytes | 📌 [SERVICE]: Google Cast / Chromecast
+[20:37:57] [TCP] IN  <- 192.168.1.11:8009 (src: 54339) | Size: 54 bytes | 📌 [SERVICE]: Google Cast / Chromecast
+[20:38:01] [OTHER] OUT -> 224.0.0.251:0 (src: 0) | Size: 60 bytes
+[20:38:02] [TCP] IN  <- 192.168.1.11:8009 (src: 54339) | Size: 164 bytes | 📌 [SERVICE]: Google Cast / Chromecast
+[20:38:02] [TCP] OUT -> 192.168.1.11:54339 (src: 8009) | Size: 164 bytes | 📌 [SERVICE]: Google Cast / Chromecast
+[20:38:02] [TCP] IN  <- 192.168.1.11:8009 (src: 54339) | Size: 54 bytes | 📌 [SERVICE]: Google Cast / Chromecast
+
+[20:38:03] СЕАНС МОНИТОРИНГА ЗАВЕРШЕН.
