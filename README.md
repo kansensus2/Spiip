@@ -51,3 +51,8 @@ Built with a sleek, modern interface inspired by media streaming platforms, Spii
    ```bash
    git clone [https://github.com/your-username/Spiip.git](https://github.com/your-username/Spiip.git)
    cd Spiip
+
+   ## Sponsor this project
+
+* ko_fi: kansensus
+* https://solscan.io/account/49UemFHmDeW3ESsJedyvir86F8EeHaksTBPnpJdTJdPw
